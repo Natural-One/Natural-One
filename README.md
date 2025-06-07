@@ -1,7 +1,7 @@
-# <p align=center>💻 Hello there 💻</p>
+# <p align=center> 💻 Hello there 💻 </p>
 <br>
 
-### <p align=center>I'm Natural-One</p>
+### <p align=center> 🦉 I'm Natural-One 🦉 </p>
 
 
 <p align=center>
