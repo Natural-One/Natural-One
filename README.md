@@ -38,7 +38,7 @@
   </a>
   <br>
   <a href="https://br.linkedin.com/company/natural-one-labs">
-    <img src="https://img.shields.io/badge/LinkedIn-Natural%20One%20Labs-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-N--One%20Labs-0A66C2?&logo=linkedin&logoColor=white">
   </a>
 </p>
 
