@@ -1,7 +1,7 @@
 # <p align=center> Hello there 👋🏻 </p>
 <br>
 
-### <p align=center> 🦉 I'm Dev-Corujinha 🦉 </p>
+### <p align=center> 🦉 I'm Dev-Lyncus 🦉 </p>
 <!-- ### <p align=center> 🏢 Founder of N-One Labs 🏢 </p> -->
 <!-- <p align="center">
   <img 
